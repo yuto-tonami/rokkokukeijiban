@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698175126331",
+    "project_id": "oxygen-1074e",
+    "storage_bucket": "oxygen-1074e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698175126331:android:15e9757f98193347b3551e",
+        "android_client_info": {
+          "package_name": "rokko.junryo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoBGz5EY01ec127yoddjqomVrxvcqCO64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
